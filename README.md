@@ -14,4 +14,4 @@ short for Java Development Kit, idts i need to explain this
 |Visual Studio Code| [here](https://code.visualstudio.com/Download)|
 |IntelliJ| [this place](https://www.jetbrains.com/idea/download/?fromIDE=)|
 ## Writing the first program
-now whatever place to wrte java you have installed, start a new java project in it, and then in the `src` make a file named `helloWorld.java` and write the code in it
+now whatever place to wrte java you have installed, start a new java project in it, and then in the `src` make a file named `helloWorld.java` and write the [code](https://github.com/sm0lvoicc/java-c-1/blob/main/helloWorld.java) in it
